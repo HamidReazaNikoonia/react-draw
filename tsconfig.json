@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "jsx": "react",
+      "module": "es6",
+      "noImplicitAny": false,
+      "outDir": "./build/",
+      "preserveConstEnums": true,
+      "removeComments": true,
+      "sourceMap": true,
+      "allowJs": true,
+      "target": "es5",
+      "moduleResolution": "node"
+    },
+    "exclude": ["node_modules", "**/*.spec.ts"]
+  }
